@@ -1,7 +1,7 @@
 {
   "companies":{
     "name":"dom.gosuslugi"
-    "success":"1",
+    "success":"true",
     "message":"Da"
   }
 }
